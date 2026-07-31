@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hello, I'm <span style="color:#4F9DFF;">Kavin R</span>
+# <span style="color:#4F9DFF;">Kavin R</span>
 
 ### 🚀 Full Stack Developer • 🤖 AI Enthusiast • 📊 Data Analytics Explorer
 
