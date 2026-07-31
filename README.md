@@ -126,39 +126,6 @@ Big Data Analytics using Spark, Hadoop & Hive.
 
 LeetCode & Interview Coding Solutions in Python.
 
----
-
-# 📈 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kavinnnn-R&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavinnnn-R&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Kavinnnn-R&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Kavinnnn-R&theme=tokyonight&row=1&column=7"/>
-
-</p>
-
----
 
 # 🌱 Currently Learning
 
@@ -172,10 +139,8 @@ LeetCode & Interview Coding Solutions in Python.
 
 # 📫 Let's Connect
 
-📧 Email: YOUR_EMAIL
+📧 Email: kavin05rk@gmail.com
 
-💼 LinkedIn: YOUR_LINKEDIN
-
-🌐 Portfolio: Coming Soon
+💼 LinkedIn: linkedin.com/in/kavin-r-4a60a3293
 
 ⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
