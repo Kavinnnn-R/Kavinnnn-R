@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi 👋, I'm Kavin R
 
-<!--
-**Kavinnnn-R/Kavinnnn-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year B.Tech Information Technology Student
 
-Here are some ideas to get you started:
+💻 Full Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 AI & Data Analytics Enthusiast
+
+📍 Tamil Nadu, India
+
+---
+
+## About Me
+
+- 🌱 Currently learning React, Node.js, Python
+- 🔭 Working on Smart Traffic Management System
+- 💬 Ask me about Python, Java, Web Development
+- 📫 Email: yourmail@gmail.com
+
+---
+
+## Tech Stack
+
+Python
+Java
+React
+Node.js
+MongoDB
+MySQL
+Docker
+Git
+AWS
+Google Cloud
+
+---
+
+## Current Projects
+
+🚦 Smart Traffic Management System
+
+🩸 ErythroLink
+
+🤖 Medical AI Assistant
+
+---
+
+## Connect with me
+
+LinkedIn
+
+Portfolio
+
+Email
