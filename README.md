@@ -1,11 +1,11 @@
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=4F9DFF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer;AI+%26+Data+Analytics+Enthusiast;Building+Software+That+Solves+Real+World+Problems;Always+Learning+New+Technologies" alt="Typing SVG" />
-----
+---
 # <span style="color:#4F9DFF;">Kavin R</span>
 
 ### 🚀 Full Stack Developer • 🤖 AI Enthusiast • 📊 Data Analytics Explorer
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=4F9DFF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer;AI+%26+Data+Analytics+Enthusiast;Building+Software+That+Solves+Real+World+Problems;Always+Learning+New+Technologies" alt="Typing SVG" />
+
 
 <br>
 
